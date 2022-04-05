@@ -1,1 +1,1 @@
-# Predictio-using-Supervised-Machine-Learning-Task-1---SparkFoundation
+# Prediction using Supervised Machine Learning : Linear Regression
